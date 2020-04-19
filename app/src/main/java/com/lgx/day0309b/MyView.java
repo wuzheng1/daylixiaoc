@@ -25,7 +25,7 @@ public class MyView extends View {
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-        int mode = MeasureSpec.getMode(heightMeasureSpec);
+        int ssssssss = MeasureSpec.getMode(heightMeasureSpec);
         int wid = MeasureSpec.getSize(widthMeasureSpec);
         int hei = MeasureSpec.getSize(heightMeasureSpec);
         int max = Math.max(wid, hei);
