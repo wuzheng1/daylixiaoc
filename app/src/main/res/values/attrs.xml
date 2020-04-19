@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+
+        <attr name="circleWidth" format="float"></attr>
+        <attr name="circleHeight" format="float"></attr>
+        <attr name="circleColor" format="color"></attr>
+        <attr name="huanssColor" format="color"></attr>
+    </declare-styleable>
+</resources>
